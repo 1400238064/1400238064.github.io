@@ -1,4 +1,4 @@
-# Minimal Text
+# 钟鱼
 
 Minimal Text is a clean and lightweight Jekyll Theme
 
