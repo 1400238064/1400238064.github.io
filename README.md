@@ -8,8 +8,8 @@ __Baseurl__
 
 ```yaml
 ---
-title: Minimal Text
-baseurl: "/Minimal-Text"
+title: 钟鱼
+baseurl: "/钟鱼"
 ```
 The site baseurl is prepended to asset links and the home button in the `post.html` layout. Please note it must start with a "/"
 By changing this you are changing the location of your website. gh.clarkhacks.com`/Minimal-Text` is the location of Minimal-Text in my case.
